@@ -1,0 +1,25 @@
+.contact
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:10px;
+    border: 5px solid grey;
+}
+.content
+{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.Sendbutton
+{
+ padding: 10px;
+ max-width: 3cm;
+ align-items: center;
+ justify-content: center;
+}
+.Info
+{
+    display: flex;
+    flex-direction: column;
+}

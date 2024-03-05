@@ -1,0 +1,26 @@
+.Image
+{
+    border-radius: 50%;
+    height: 250px;
+    width: 300px;
+    justify-content: center;
+    border: 5px solid #555;
+    
+}
+
+.about
+{
+    font-family: "Nunito";
+    font-size: 15px; 
+    max-width: 20cm;
+
+}
+.container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightcyan;
+  }
+  
